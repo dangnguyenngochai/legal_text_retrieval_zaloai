@@ -1,0 +1,4 @@
+### Baseline
+
+- TFIDF
+- BM25
