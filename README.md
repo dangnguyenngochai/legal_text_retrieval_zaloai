@@ -3,7 +3,7 @@
 - TFIDF
 - BM25
 
-### ML and DL
+### Deep Learning Approach
 
 - Word2vec
 - Doc2vec
